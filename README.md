@@ -122,8 +122,8 @@ Contributions to improve features, UI, documentation, or bug fixes are welcome. 
 
 **Developers:**
 
-- Sukhbodh Tripathi – sukhbodhtripathi210@gmail.com
 - K Abhinav Sarma – kabhinavsarma@gmail.com
+- Sukhbodh Tripathi – sukhbodhtripathi210@gmail.com
 
 For questions, suggestions, or collaboration, please reach out via email or open an issue in the repository.
 
