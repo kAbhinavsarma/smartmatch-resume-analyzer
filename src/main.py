@@ -14,8 +14,15 @@ import os
 from pathlib import Path
 from dotenv import load_dotenv
 
+import sys
+import os
+from pathlib import Path
+
+# Add project root to Python path
+project_root = Path(__file__).parent.parent
+sys.path.insert(0, str(project_root))
+
 # Load environment variables from the project root directory
-project_root = Path(__file__).parent.parent  # Go up from src/ to project root
 env_path = project_root / '.env'
 load_dotenv(dotenv_path=env_path)
 
